@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vxilFeLba44/T60LMcXudkeEeazidT8h5rCwhMCtwb8=",
+  "Source": "Webhook.Server",
+  "BasePath": "_content/Webhook.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
