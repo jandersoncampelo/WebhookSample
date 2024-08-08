@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\janderson.souza\\source\\WebhookSample\\src\\Webhook.Client\\Webhook.Client.csproj": {}
+    "C:\\Users\\janderson.souza\\source\\WebhookSample\\src\\Webhook.Client\\Webhook.Client.csproj": {}
   },
   "projects": {
-    "c:\\Users\\janderson.souza\\source\\WebhookSample\\src\\Webhook.Client\\Webhook.Client.csproj": {
+    "C:\\Users\\janderson.souza\\source\\WebhookSample\\src\\Webhook.Client\\Webhook.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\janderson.souza\\source\\WebhookSample\\src\\Webhook.Client\\Webhook.Client.csproj",
+        "projectUniqueName": "C:\\Users\\janderson.souza\\source\\WebhookSample\\src\\Webhook.Client\\Webhook.Client.csproj",
         "projectName": "Webhook.Client",
-        "projectPath": "c:\\Users\\janderson.souza\\source\\WebhookSample\\src\\Webhook.Client\\Webhook.Client.csproj",
+        "projectPath": "C:\\Users\\janderson.souza\\source\\WebhookSample\\src\\Webhook.Client\\Webhook.Client.csproj",
         "packagesPath": "C:\\Users\\janderson.souza\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\janderson.souza\\source\\WebhookSample\\src\\Webhook.Client\\obj\\",
+        "outputPath": "C:\\Users\\janderson.souza\\source\\WebhookSample\\src\\Webhook.Client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
